@@ -13,7 +13,8 @@ In the untared folder run these commands:
 In the kernel dir make the linux binary executable: 
 ### chmod +x linux
 Download the rootfs.img from releases
-Then run this command: 
+then run this command: 
+
 "./linux \
   ubd0=/path/to/your/rootfs.img \
   mem=512M \
