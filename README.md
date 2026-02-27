@@ -22,4 +22,4 @@ then run this command:
   con0=fd:0 \
   systemd.unit=multi-user.target" 
   
-  ### It should run a new shell, log in with root and passwd root, it should say some messages about waranty, it will maybe be stuck on that message without giving a shell, wait it should give you one, for me it takes about 30 sec but it could be shorter or longer.
+It should run a new shell, log in with root and passwd root, it should say some messages about waranty, it will maybe be stuck on that message without giving a shell, wait it should give you one, for me it takes about 30 sec but it could be shorter or longer.
