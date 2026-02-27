@@ -11,7 +11,7 @@ In the untared folder run these commands:
 
 ## Running  
 In the kernel dir make the linux binary executable: 
-# chmod +x linux
+### chmod +x linux
 Download the rootfs.img from releases
 Then run this command: 
 "./linux \
